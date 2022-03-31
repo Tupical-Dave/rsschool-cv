@@ -32,7 +32,7 @@ Not much but its honest work:
 - Am halfway through the second stage of BitCamp;
 - Link for the work done during the project is above. Although, the whole first stage was about JavaScript, it was all performed on the platform,
   therefore I do not have access to the code I wrote there.
-  
+   
 ### Education
 - I have a Bachelor's Degree in the field of International Relations at Free University of Georgia (Kakha Bendukidze Campus);
 - For Courses and experience in Coding, see the section above.

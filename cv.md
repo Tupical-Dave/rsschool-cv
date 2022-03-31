@@ -26,7 +26,7 @@ As I already mentioned I do not have much experience in programing however, I kn
 ### Code Examples
 Not much but its honest work:
 - https://github.com/Tupical-Dave/HTML-CSS-Course
-
+ 
 ### Experience
 - I have passed the first stage of BitCamp (Georgian Project);
 - Am halfway through the second stage of BitCamp;

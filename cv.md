@@ -36,7 +36,7 @@ Not much but its honest work:
 ### Education
 - I have a Bachelor's Degree in the field of International Relations at Free University of Georgia (Kakha Bendukidze Campus);
 - For Courses and experience in Coding, see the section above.
-
+ 
 ### Foreign Languages
 - **Georgian (fluent)**, have been living in Georgia for my whole life;
 - **Russian (Speaking level fluent)**. My family is Armenian so almost through my whole life I was speaking Russian at home. However, I am pretty bad at writing;

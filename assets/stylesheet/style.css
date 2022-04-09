@@ -78,6 +78,11 @@ table {
     padding-right: 30px;
     margin: 0 auto;
     width: 960px;
+
+}
+
+img {
+    border-radius: 50%;
 }
 
 /*
@@ -88,6 +93,7 @@ table {
 
 body {
     font-family: 'Karla', sans-serif;
+
 }
 
 h1, h2, h3, h4, h5, p {
@@ -111,7 +117,7 @@ h1, h2, h3, h4, h5, p {
     font-weight: 600;
   }
   h3 {
-    font-size: 30px;
+    font-size: 20px;
     line-height: 22px;
     font-weight: 600;
   }
@@ -126,7 +132,7 @@ h1, h2, h3, h4, h5, p {
     text-transform: uppercase;
   }
   p {
-    font-size: 18px;
+    font-size: 15px;
     line-height: 22px;
     font-weight: 400;
   }
@@ -145,10 +151,8 @@ h1, h2, h3, h4, h5, p {
 
 ul{
     list-style-type: circle;
-
-    margin-left: 30px;
-    font-size: 21px;
+    margin-left: 20px;
+    font-size: 15px;
     line-height: 22px;
+    margin-bottom: 20px;
   }
-
-

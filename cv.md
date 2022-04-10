@@ -44,5 +44,5 @@ Not much but its honest work:
   speaking friends;
 - **German (B1 level)**, have been learning this language for several years now, however, due to the lack of practice I keep forgetting it;
 - **Chinese (A2 level)**, it was my Major during Bachelor years and according to the Diploma I know this language on the level of C2, however, I didn't use this
-  language     for around 4 years now, therefore I lost almost all the knowledge, well not lost but it definitely is sleeping somewhere in the depth of my mind.
+  language for around 4 years now, therefore I lost almost all the knowledge, well not lost but it definitely is sleeping somewhere in the depth of my mind.
 

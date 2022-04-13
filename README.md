@@ -1,1 +1,1 @@
-https://Tupical-Dave.github.io/rsschool-cv/
+https://tupical-dave.github.io/rsschool-cv/
